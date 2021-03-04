@@ -1,0 +1,18 @@
+main-page-card {
+    width: 100%;
+    height: 100%;
+}
+
+.container-main-page-profile{
+    margin: 20px auto;
+}
+
+.main-page-row {
+    padding: 10px;
+}
+
+
+.main-page-typography{
+    text-align: center;
+    margin: 20px 0px 0px 0px ;
+}
